@@ -27,6 +27,7 @@
 # All Playlists -  Broken / Difficult to Play
 513 - Tutorial 2 - Playlist_Tutorial_DefensiveBuilding (instakick)
 518 - Black Hole Event - Playlist_Intro_Apollo_CurrentPlayer (softlock)
+? - The End Event - Playlist_Guava (untested)
 [includes New, Past variants]
 460 - Fly Explosives - Playlist_FlyExplosives_Duos (broken?)
 453 - Final Fight - Playlist_Final_20 (broken)
