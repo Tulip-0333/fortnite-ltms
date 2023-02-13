@@ -32,9 +32,9 @@
 460 - Fly Explosives - Playlist_FlyExplosives_Duos (broken?)<br>
 453 - Final Fight - Playlist_Final_20 (broken)<br>
 457 - Ground Game - Playlist_Ground_Squads (infinitely slow battle bus)<br>
-? - The End Event - Playlist_Guava (untested)
-? - Impostors - Playlist_MoleGame (untested)
-? - Tutorial 1 - Playlist_Tutorial_1 (untested)
+? - The End Event - Playlist_Guava (doesnt appear)
+? - Impostors - Playlist_MoleGame (doesnt appear)
+? - Tutorial 1 - Playlist_Tutorial_1 (doesnt appear)
 
 # All Playlists -  Blacklisted / No Longer Playable
 488 - Unvaulted (Playlist_Unvaulted_Duos)<br>
